@@ -1,0 +1,24 @@
+# Raw and processed high-throughput sequencing data (exceeds GitHub size limits)
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+*.sra
+*.sam
+*.bam
+*.bai
+*.tar.gz
+
+# Databases and large index files
+/databases/
+/references/
+*.bt2
+*.k2d
+*.dmnd
+
+# Temporary scratch directories
+tmp/
+tmp_sra/
+__pycache__/
+.Rhistory
+.RData

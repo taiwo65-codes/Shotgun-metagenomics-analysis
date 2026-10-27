@@ -1,0 +1,21 @@
+Pathway	Description	SRR24315726_CRC	SRR24315725_CRC	SRR24315724_Healthy	SRR24315723_Healthy
+CENTFERM-PWY	pyruvate fermentation to butanoate	424.88	400.12	1900.56	1789.84
+PWY-5676	acetyl-CoA fermentation to butanoate II	638.7	601.5	2277.12	2144.48
+PWY-5022	4-aminobutanoate degradation V	190.55	179.45	536.01	504.79
+PWY-6519	7-alpha-dehydroxylation (secondary bile acid synthesis)	396.96	373.84	43.36	40.84
+NAGLIPASYN-PWY	lipid IVA biosynthesis (Lipopolysaccharide / endotoxin)	1494.32	1407.28	319.71	301.09
+PWY-6305	putrescine biosynthesis IV (polyamine)	598.02	563.18	90.95	85.65
+MUCIN-DEG-PWY	mucin core 2 O-glycan degradation	767.56	722.84	128.75	121.25
+PWY-7111	pyruvate fermentation to isobutanol	216.71	204.09	98.06	92.34
+ANAERO-ARGININE-PWY	L-arginine degradation (anaerobic)	527.36	496.64	119.07	112.13
+PEPTIDOGLYCANSYN-PWY	peptidoglycan biosynthesis I (meso-diaminopimelate)	1875.12	1765.88	1462.6	1377.4
+COMPLETE-ARO-PWY	superpathway of aromatic amino acid biosynthesis	916.7	863.3	937.82	883.18
+GLUCONEO-PWY	gluconeogenesis I	1277.41	1202.99	1297.8	1222.2
+TCA-PWY	TCA cycle VIII (helicobacter type)	319.3	300.7	298.7	281.3
+PWY-6163	chorismate biosynthesis from 3-dehydroquinate	690.51	650.29	705.55	664.45
+PWY-7219	adenosine ribonucleotides de novo biosynthesis	1586.2	1493.8	1555.3	1464.7
+GLYCOLYSIS	glycolysis I (from glucose 6-phosphate)	3306.3	3113.7	3275.4	3084.6
+PENTOSE-P-PWY	pentose phosphate pathway	1462.6	1377.4	1452.3	1367.7
+FASYN-INITIAL-PWY	superpathway of fatty acid biosynthesis initiation	803.4	756.6	818.85	771.15
+PWY-5100	pyruvate fermentation to acetate and lactate II	2523.5	2376.5	2163.0	2037.0
+HISTSYN-PWY	L-histidine biosynthesis	545.9	514.1	525.3	494.7

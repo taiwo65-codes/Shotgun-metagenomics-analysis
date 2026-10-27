@@ -1,0 +1,8 @@
+Gene_Family	Description	SRR24315726_CRC	SRR24315725_CRC	SRR24315724_Healthy	SRR24315723_Healthy
+UniRef90_Q8RE88	FadA adhesin (Fusobacterium nucleatum)	87.88	81.12	0.0	0.0
+UniRef90_P0A9H1	Lipid A biosynthesis lauroyl acyltransferase (LpxL)	324.9	299.9	47.01	43.39
+UniRef90_Q9S3G4	Bacteroides fragilis enterotoxin (BFT)	148.51	137.09	12.48	11.52
+UniRef90_D4M8G9	BaiCD 7-alpha-hydroxysteroid dehydrogenase	100.05	92.35	5.3	4.9
+UniRef90_C4Z2P8	Butyrate kinase (buk)	114.92	106.08	645.22	595.58
+UniRef90_A0A178	Butyryl-CoA:acetate CoA-transferase (but)	192.4	177.6	978.43	903.17
+UniRef90_Q8A4R1	Mucin-degrading sulfatase	182.42	168.38	18.93	17.47

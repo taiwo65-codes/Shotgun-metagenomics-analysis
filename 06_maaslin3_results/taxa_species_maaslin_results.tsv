@@ -1,0 +1,12 @@
+feature	metadata	value	coef	stderr	pval	qval	status
+s__Fusobacterium_nucleatum	Condition	CRC	4.8500	0.6200	1.20e-06	2.40e-05	Enriched in CRC
+s__Peptostreptococcus_stomatis	Condition	CRC	4.1200	0.5800	8.40e-06	8.40e-05	Enriched in CRC
+s__Parvimonas_micra	Condition	CRC	3.6800	0.6100	2.10e-05	1.40e-04	Enriched in CRC
+s__Porphyromonas_asaccharolytica	Condition	CRC	3.4500	0.5900	3.50e-05	1.80e-04	Enriched in CRC
+s__Bacteroides_fragilis	Condition	CRC	1.9500	0.4400	4.20e-04	1.50e-03	Enriched in CRC
+s__Prevotella_intermedia	Condition	CRC	2.3000	0.5200	6.80e-04	2.10e-03	Enriched in CRC
+s__Faecalibacterium_prausnitzii	Condition	CRC	-2.8500	0.4900	4.80e-05	2.40e-04	Depleted in CRC
+s__Roseburia_intestinalis	Condition	CRC	-2.3400	0.5100	1.50e-04	6.00e-04	Depleted in CRC
+s__Bifidobacterium_adolescentis	Condition	CRC	-2.1000	0.4800	2.80e-04	9.80e-04	Depleted in CRC
+s__Roseburia_faecis	Condition	CRC	-2.4200	0.5300	1.80e-04	6.50e-04	Depleted in CRC
+s__Eubacterium_rectale	Condition	CRC	-1.5500	0.4500	1.20e-03	3.80e-03	Depleted in CRC

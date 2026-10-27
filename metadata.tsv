@@ -1,0 +1,5 @@
+SampleID	Accession	Group	PatientID	Condition	BioProject	BioSample	Host	Tissue	Country
+SRR24315726	SRX20110651	CRC	Patient_82	CRC	PRJNA961076	SAMN34351625	Homo sapiens	human gut	Spain
+SRR24315725	SRX20110652	CRC	Patient_83	CRC	PRJNA961076	SAMN34351626	Homo sapiens	human gut	Spain
+SRR24315724	SRX20110653	Healthy	Patient_55	Healthy	PRJNA961076	SAMN34351598	Homo sapiens	human gut	Spain
+SRR24315723	SRX20110654	Healthy	Patient_56	Healthy	PRJNA961076	SAMN34351599	Homo sapiens	human gut	Spain

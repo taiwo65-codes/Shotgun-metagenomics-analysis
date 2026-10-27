@@ -1,0 +1,33 @@
+ 15.00	2714715	2714715	U	0	unclassified
+ 85.00	15383386	0	R	1	root
+ 84.80	15352619	0	D	2	Bacteria
+   4.61	708790	652086	S	767	  Fusobacterium nucleatum
+   2.04	314206	289069	S	29334	  Peptostreptococcus stomatis
+   1.69	260133	239322	S	33024	  Parvimonas micra
+   1.35	207522	190920	S	28124	  Porphyromonas asaccharolytica
+   7.03	1081452	994935	S	817	  Bacteroides fragilis
+   1.04	160756	147895	S	28123	  Prevotella intermedia
+   0.81	124221	114283	S	1378	  Gemella morbillorum
+   0.62	94992	87392	S	147814	  Solobacterium moorei
+   4.94	759939	699143	S	562	  Escherichia coli
+   0.43	65764	60502	S	1377	  Streptococcus gallolyticus
+   2.52	387277	356294	S	853	  Faecalibacterium prausnitzii
+   1.04	160756	147895	S	166486	  Roseburia intestinalis
+   0.71	109607	100838	S	204446	  Roseburia faecis
+   0.81	124221	114283	S	1680	  Bifidobacterium adolescentis
+   1.14	175371	161341	S	216816	  Bifidobacterium longum
+   1.71	263056	242011	S	39491	  Eubacterium rectale
+   0.85	131528	121005	S	33042	  Coprococcus comes
+   1.09	168063	154617	S	47679	  Ruminococcus bromii
+   1.43	219213	201675	S	239935	  Akkermansia muciniphila
+   9.03	1388351	1277282	S	821	  Bacteroides vulgatus
+   7.79	1198366	1102496	S	820	  Bacteroides uniformis
+   5.13	789168	726034	S	818	  Bacteroides thetaiotaomicron
+   3.04	467655	430242	S	823	  Parabacteroides distasonis
+   1.99	306899	282347	S	435591	  Alistipes putredinis
+   1.33	204599	188231	S	397843	  Barnesiella intestinihominis
+   1.14	175371	161341	S	195048	  Dialister invisus
+   0.90	138835	127728	S	33025	  Phascolarctobacterium faecium
+   0.76	116914	107560	S	399550	  Oscillibacter valericigenes
+   1.52	233827	215120	S	214851	  Subdoligranulum variabile
+   2.38	365355	336126	S	40544	  Blautia obeum
